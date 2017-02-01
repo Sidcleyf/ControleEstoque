@@ -1,7 +1,7 @@
 # PROJETO: Controle de Estoque
   Sistema simples de controle de venda e estoque de produtos para aprendizado das seguintes tecnologias:
   
-  1. A ser definida
+  1.Tecnologia a ser definida
   
 # FASES DO PROJETO
 
@@ -62,22 +62,27 @@ SE HOUVER MUITA DUVIDA PODEMOS FAZER UM HANGOUT*
 
 
 #COLABORADORES
- 1. DANIEL
- 2.Renata
- 3.David
- 4 .Sidcley 
- 5.Fagner
- 6. Chylton
- 7. Thiago
- 8. Marcelo 
-  
+     1. Daniel
+     2. Renata
+     3. David
+     4. Sidcley 
+     5. Fagner
+     6. Chylton
+     7. Thiago
+     8. Marcelo 
+
 #LINKS COMPARTILHADO
 
 Certificação OCA: https://youtu.be/NTJNK7dX6bM
+
 Orientação a Objeto: https://youtu.be/KlIL63MeyMY
+
 Curso de Java Básico: http://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r
+
 Diagrama de classe - UML: https://youtu.be/aeNtTKDHJCA
+
 GIT e GITHUB: https://youtu.be/UMhskLXJuq4
+
 Java SE & Orientação a objetos:https://www.youtube.com/playlist?list=PLE9EDB63A56B353C2
 
   
