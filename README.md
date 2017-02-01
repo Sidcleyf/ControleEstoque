@@ -6,13 +6,13 @@
 # FASES DO PROJETO
 
 
-#FASE 1 - DEFINICAO DO PROJETO
+###FASE 1 - DEFINICAO DO PROJETO
       -Controle de estoque
 
-#FASE 2 - DEFINIR SE VAI SER JAVA EE ou JAVA SE
+###FASE 2 - DEFINIR SE VAI SER JAVA EE ou JAVA SE
       -java ee
 
-#FASE 3 - LEVANTAMENTO DE REQUISITOS (Em andamento)
+###FASE 3 - LEVANTAMENTO DE REQUISITOS (Em andamento)
          
       REQUISITOS DE CLIENTES:
       1. O sistema deverá permitir a manutenção(inclusao, exclusao, alteracao) de cliente
@@ -43,25 +43,33 @@
          
          
 
-#FASE 4 - MODELAGEM UML
+###FASE 4 - MODELAGEM UML
        - a definir
 
-#FASE 5 - PROTOTIPACAO
+###FASE 5 - PROTOTIPACAO
        - a definir
  	   
-#FASE 6 - ESCOLHA DAS TECNOLOGIAS
+###FASE 6 - ESCOLHA DAS TECNOLOGIAS
        - a definir
 
-#FASE 7 - ENTENDENDO O GITHUB
+###FASE 7 - ENTENDENDO O GITHUB
        - a definir
 
-#FASE 8 - IMPLEMENTACAO	   
+###FASE 8 - IMPLEMENTACAO	   
 
 *A IMPLEMENTACAO PODERÁ SER DEFINIDA EM VARIAS OUTRAS FASES
 SE HOUVER MUITA DUVIDA PODEMOS FAZER UM HANGOUT*
 
 
-
+#COLABORADORES
+ 1. DANIEL
+ 2.Renata
+ 3.David
+ 4 .Sidcley 
+ 5.Fagner
+ 6. Chylton
+ 7. Thiago
+ 8. Marcelo 
   
 #LINKS COMPARTILHADO
 
